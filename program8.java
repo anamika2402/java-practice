@@ -1,6 +1,6 @@
-class program6{
+class program8{
 	public static void main(String[] args){
-		int num=8;
+		int num=0;
 		if(num>0){
 			System.out.println("Number is positive");
 		}

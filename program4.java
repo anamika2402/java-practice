@@ -1,6 +1,11 @@
 class program4{
 	public static void main(String[] args){
-		byte age =127;
-		System.out.println(age);
+		int age=17;
+		if(age>=18){
+			System.out.println("Eligible for voting");
+		}
+		else{
+			System.out.println("Not eligible for voting");
+		}
 	}
 }
